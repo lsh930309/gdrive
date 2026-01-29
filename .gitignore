@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Generated scripts
+run_mount.bat
+auto_mount.pyw
+
+# rclone config (contains tokens)
+rclone.conf
